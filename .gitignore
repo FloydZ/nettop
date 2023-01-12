@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.cache/
+.idea/
+.local-history/
+cmake-build-debug/
+cmake-build-release/
+build/
+*.o
+nettop
+obj/

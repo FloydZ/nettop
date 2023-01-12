@@ -1,0 +1,9 @@
+- std::cout printing anstatt printf
+- bessere cmd args parsing
+- cmake submodules downloading building and stuff
+- folgende args einbauen:
+	- nur einene thread
+	- json output
+	- nur namen der exe
+- display backends weg abstrahieren via concepts
+- cpp futures?
