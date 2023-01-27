@@ -4,3 +4,13 @@ TODOs:
 ======
 
 - [ ] migrate from curses to ncurses
+- [ ] std::cout printing instead of  printf
+- [ ] better cmd args parsing
+- [ ] cmake submodules downloading building and stuff
+- [ ] implememnt the following args:
+	- [ ] only a single thread
+	- [ ] json output
+	- [ ] only show the name of the executable
+- [ ] abstract display backends  via concepts
+- [ ] cpp futures?
+
