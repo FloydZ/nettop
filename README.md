@@ -13,4 +13,4 @@ TODOs:
 	- [ ] only show the name of the executable
 - [ ] abstract display backends  via concepts
 - [ ] cpp futures?
-
+- [ ] Remove Makefile
